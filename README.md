@@ -39,7 +39,6 @@ This repo serves as a central hub to showcase my frontend experiments, interacti
 
 ### 🔑 Key Features:
 - 🧾 Generate QR Codes from any text or URL  
-- 📷 Scan QR Codes using your device's webcam  
 - 💡 Beautiful and centered UI with animations and hover effects  
 - 🧩 Single-page app: Easy to integrate anywhere  
 
@@ -54,8 +53,7 @@ This repo serves as a central hub to showcase my frontend experiments, interacti
 - [`html5-qrcode`](https://github.com/mebjas/html5-qrcode)  
 
 ### ⚙️ How It Works:
-1. Type your text or link → Hit `Generate` → QR is ready!  
-2. Want to scan a QR? Click `Start Scan` → Allow camera → Done!  
+Type your text or link → Hit `Generate` → QR is ready!   
 
 ---
 
